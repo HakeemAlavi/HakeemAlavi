@@ -22,6 +22,11 @@
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux -->
 
 
+<p align="center">
+    <a href="https://github.com/NickBwalley/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakeem Alavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakeemAlavi&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
+    </a>
+</p>
 
 ## Examples of Work
 **ecommerce application-codeigniter4**
