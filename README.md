@@ -28,10 +28,9 @@
     </a>
 </p>
 
-## Examples of Work
-**ecommerce application-codeigniter4**
+
 <br/><br>
-<img src="https://raw.githubusercontent.com/dev-sheikh-ali/codeigniter-eccommerce-site/17708fed3b1475a68f8d0b0a4bdb600f70e5a34a/public/admin/img/Screenshot.png" width="800px">
+
 <br/><br>
 
 
