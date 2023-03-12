@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Android Application**
+- 🔭 I’m currently working on **My Final Year Project**
 
-- 🌱 I’m currently learning **How to code on Anroid Studio**
+- 🌱 I’m currently learning **How to intergrate AI into my projects**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
