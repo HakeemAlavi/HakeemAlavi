@@ -21,7 +21,7 @@
 <!-- * <img src="https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif" width="20px">Docker
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux -->
 
-
+<br/><br>
 <p align="center">
     <a href="https://github.com/NickBwalley/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakeem Alavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakeemAlavi&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
