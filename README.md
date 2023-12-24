@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **A React Front-End Project**
+- 🔭 I’m currently working on a **React Front-End Project**
 
-- 🌱 I’m currently learning **To maximize JS proficiency**
+- 🌱 I’m currently learning to **maximize JS proficiency**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
