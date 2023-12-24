@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Final Year Project**
+- 🔭 I’m currently working on **A React Front-End Project**
 
-- 🌱 I’m currently learning **How to intergrate AI into my projects**
+- 🌱 I’m currently learning **To maximize JS proficiency**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
@@ -22,7 +22,7 @@
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux -->
 
 <br/><br>
-<p align="center">
+<!--<p align="center">
     <a href="https://github.com/NickBwalley/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakeem Alavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakeemAlavi&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
     </a>
@@ -31,7 +31,7 @@
 
 <br/><br>
 
-<br/><br>
+<br/><br>-->
 
 
 
