@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **React Front-End Project**
+- 🔭 I’m currently working on a **Front-End Project**
 
 - 🌱 I’m currently learning to **maximize JS proficiency**
 
