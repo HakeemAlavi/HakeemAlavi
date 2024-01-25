@@ -17,9 +17,11 @@
 
 ## 🏅 Skills and Experience
 
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">    HTML, CSS, JS, PHP
-* ☕ Kotlin/Java
-* 🐍 Python/R
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px"> HTML, CSS, JS, PHP
+  
+- ☕ Kotlin/Java
+  
+- 🐍 Python/R
 <!-- * <img src="https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif" width="20px">Docker
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux -->
 
@@ -89,9 +91,10 @@
 <br>
 
 ## 💻 My Portfolios
-Main Portfolio: <a href="https://hakeemalavi.000webhostapp.com/index.html" target="_blank">bit.ly/HakeemAlavi</a>
-<br>
-Secondary Portfolio: <a href="https://hakeemalavi.github.io/" target="_blank">hakeemalavi.github.io</a>
+
+- Main Portfolio - <a href="https://hakeemalavi.000webhostapp.com/index.html" target="_blank">bit.ly/HakeemAlavi</a>
+
+- Secondary Portfolio - <a href="https://hakeemalavi.github.io/" target="_blank">hakeemalavi.github.io</a>
 <br><br>
 
 ## ❤ Views and Followers
