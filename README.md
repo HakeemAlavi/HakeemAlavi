@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hakeem</h1>
-<h3 align="center">I'm a passionate Front-End Developer from Kenya.</h3>
+<h3 align="center">I'm a passionate Front-End Developer from Kenya</h3>
+<br>
 
 ## 🙋‍♂️ About Me
 
@@ -12,16 +13,17 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-sheikh-ali.com)** -->
+<br>
 
-## Skills and Experience
+## 🏅 Skills and Experience
 
-* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">   HTML, CSS, JS, PHP
+* <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ362Ssn67CjIVhcvF8rHJdWYRQBunaNxA_A_9PUS-U9-hF5QLGIybNHFRMlH6bVpDJ8p8&usqp=CAU" width="20px">    HTML, CSS, JS, PHP
 * ☕ Kotlin/Java
 * 🐍 Python/R
 <!-- * <img src="https://user-images.githubusercontent.com/102146469/161864587-6243743d-a2d9-46d5-af38-a6361224db4d.gif" width="20px">Docker
 * <img src="https://user-images.githubusercontent.com/102146469/161865521-5368243e-e7fd-4895-8796-8bb64db3ff3a.gif" width ="20px"> linux -->
 
-<br/><br>
+
 <!--<p align="center">
     <a href="https://github.com/NickBwalley/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hakeem Alavi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HakeemAlavi&theme=black-ice&hide_border=false&stroke=0000&background=1c041c"/>
@@ -32,10 +34,9 @@
 <br/><br>
 
 <br/><br>-->
+<br>
 
-
-
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     
@@ -58,7 +59,7 @@
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+
 
 <!-- <p align="center">
     <a href="https://github.com/HakeemAlavi/github-readme-streak-stats">
@@ -68,15 +69,13 @@
 
 <!-- ## 📊 My Github Stats
 
-  <br/>
+
     <a href="https://github.com/HakeemAlavi/github-readme-stats"><img alt="HakeemAlavi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HakeemAlavi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <!-- <a href="https://github.com/HakeemAlavi/github-readme-stats"><img alt="Ali's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HakeemAlavi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
  
 
 <!-- <a href="https://github.com/HakeemAlavi/github-readme-activity-graph"><img alt="HakeemAlavi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HakeemAlavi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-<br/>
-<br/>
 
 <!-- ## Connect with me:
 <p align="left">
@@ -87,6 +86,13 @@
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
+<br>
+
+## 💻 My Portfolios
+Main Portfolio: <a href="https://hakeemalavi.000webhostapp.com/index.html" target="_blank">bit.ly/HakeemAlavi</a>
+<br>
+Secondary Portfolio: <a href="https://hakeemalavi.github.io/" target="_blank">hakeemalavi.github.io</a>
+<br><br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/HakeemAlavi/github-profile-views-counter">
