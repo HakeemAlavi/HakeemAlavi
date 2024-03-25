@@ -1,14 +1,16 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hakeem</h1>
-<h3 align="center">I'm a passionate Front-End Developer from Kenya</h3>
+<h3 align="center">I'm a passionate Front-End Developer from Kenya, based in Estonia</h3>
 <br>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **Front-End Project**
+- 🔭 I’m currently working on an **AI-Driven Education Content Creator**
 
 - 🌱 I’m currently learning to **maximize JS proficiency**
+
+- 🌱 Also currently learning to **design projects in Figma**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 <!-- 
