@@ -94,7 +94,7 @@
 
 ## 💻 My Portfolios
 
-- Main Portfolio - <a href="https://hakeemalavi.000webhostapp.com/index.html" target="_blank">bit.ly/HakeemAlavi</a>
+- Main Portfolio - <a href="https://hakeemalavi.vercel.app" target="_blank">hakeemalavi.vercel.app</a>
 
 - Secondary Portfolio - <a href="https://hakeemalavi.github.io/" target="_blank">hakeemalavi.github.io</a>
 <br><br>
