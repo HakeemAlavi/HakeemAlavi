@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on an **AI-Driven Education Content Creator**
+- 🔭 I’m currently working on an **AI-Driven Project Assistant**
 
 - 🌱 I’m currently learning to **maximize JS proficiency**
 
